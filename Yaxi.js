@@ -8,7 +8,9 @@ Yaxi.on("ready", () => {
   );
   let statuses = [
   
-  `You only live once, so try to live for God.`,
+  `‎ ,ًرئيس ,ًالجمهورية ,ًدیسکورد ,ًقائد ,ًجميع ,ًالقوات ,ًالمسلحة ,ًوالمتطوعين` ,
+`XAZABm` ,
+`RASHA UP`,
  
   ];
   setInterval(function() {
@@ -21,8 +23,8 @@ Yaxi.on("ready", () => {
 });
 ///////////////////////
 Yaxi.on("ready", () => {
-    var join = Yaxi.channels.get(""); /// id voice
+    var join = Yaxi.channels.get("881207625541378088"); /// id voice
     if (join) join.join();
   });
 //////////////// tokn lera da bne 
-Yaxi.login("");
+Yaxi.login("NzcyMDk2MzA0NjI0NDM1MjEw.YS0QDA.P-A8sseItBYv1MQlp3Vzh_Zb3Rs");
